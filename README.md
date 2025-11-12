@@ -27,6 +27,4 @@ Applied-Finance-and-Valuation-Models/
 
 ---
 
----
-
 *(Inspired by: Simon Benninga — *Financial Modeling*)*
