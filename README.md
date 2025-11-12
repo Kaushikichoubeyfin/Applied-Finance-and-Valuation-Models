@@ -2,7 +2,7 @@
 Corporate Finance and Investment Valuation Models: including IRR, NPV, the Pension Problem and Leasing Analysis.
 
 This repository contains **applied corporate finance and valuation models** implemented in Microsoft Excel.  
-The work is inspired by Simon Benninga and Talmofkadi’s *Financial Modeling* and provides hands-on Excel implementations of fundamental finance concepts.
+The work is inspired by Simon Benninga and Tal Mofkadi’s *Financial Modeling* and provides hands-on Excel implementations of fundamental finance concepts.
 
 ```
 Applied-Finance-and-Valuation-Models/
@@ -27,4 +27,4 @@ Applied-Finance-and-Valuation-Models/
 
 ---
 
-*(Inspired by: Simon Benninga — *Financial Modeling*)*
+*(Inspired by: Simon Benninga & Tal Mofkadi's— *Financial Modeling*)*
