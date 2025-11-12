@@ -27,4 +27,4 @@ Applied-Finance-and-Valuation-Models/
 
 ---
 
-*(Inspired by: Simon Benninga & Tal Mofkadi's— *Financial Modeling*)*
+*(Inspired by: Simon Benninga & Tal Mofkadi's *Financial Modeling*)*
